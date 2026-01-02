@@ -24,9 +24,8 @@ Concept images made in Blender
 1. [About](#-About)
 2. [Technologies](#-Technologies)
 3. [Instructions](#-Instructions)
-4. [Uso](#-uso)
-5. [Roadmap](#-roadmap)
-6. [Licencia](#-licencia)
+4. [Roadmap](#-Roadmap)
+5. [Licence](#-licence)
 
 ---
 
