@@ -12,7 +12,7 @@
   ![Hardware](https://img.shields.io/badge/Hardware-Teensy_4.1-blue)
   ---
 
-## ⚠️❗Attention! This project is in early development. Many things are still being planned and may change without notice.
+## ⚠️❗Attention! This project is in early development. Many things are still being planned and may /And will) change without notice.
 
   <p>
     A DIY sampler based on the Teensy 4.1 development board, focused on beatmaking, sampling, and live music production.
@@ -24,11 +24,12 @@
 ## 📋 Contents
 
 1. [About](#-about)
-2. [Technologies](#-technologies)
-3. [Features](#-features)
-4. [Instructions](#-instructions)
-5. [Roadmap](#-roadmap)
-6. [License](#-license)
+2. [Features](#-features)
+3. [Components](#-components)
+4. [Technologies](#-technologies)
+5. [Instructions](#-instructions)
+6. [Roadmap](#-roadmap)
+7. [License](#-license)
 
 ---
 
@@ -45,6 +46,38 @@ Currently, there are many hardware alternatives that serve similar purposes (lik
 
 ---
 
+## 🎛 Features
+
+### Hardware
+- **16 Mechanical Switches:** Used for finger drumming and live performance. I chose mechanical key switches (Cherry MX style) for that tactile clicky sensation and durability.
+- **8 Potentiometers:** For real-time control of effects, volume, and parameters.
+- **4 Encoders:** Endless rotary encoders for ADSR control, menu navigation, and fine-tuning values.
+- **3 Joysticks:** Why not make it fun and expressive? Map values to X and Y axes to manipulate effects while playing live.
+- **9 Function Buttons:** System controls including "Save", "Open", "Undo", "Quantize", and Shift shortcuts.
+
+### Software (Planned)
+- **Sample Playback:** Low latency triggering from SD card.
+- **Sequencer:** Step sequencer and live recording.
+- **Effects:** Reverb, Delay, and Bitcrusher implementation.
+
+---
+
+## 🔌 Components
+
+List of main components used in this build:
+
+* **1x**- Teensy 4.1
+* **1x**- Teensy Audio Shield
+* **1x**- 2.0 inch TFT Display OLED LCD 
+* **16x**- Cherry MX Mechanical Switches
+* **8x**- B10k potentiometers
+* **4x**- Rotary encoders with switch
+* **3x**- Joystick module
+* **9x**- Push Button (Or more mechanical switches)
+* **1x**- Enclosure. You can use plastic containers, metal containers, recycled boxes, or even make your own cardboard box using the template in this repository. Get creative and make something amazing and original!
+
+---
+
 ## 🛠 Technologies
 
 I am using the following technologies and libraries. Big thanks to their creators and maintainers:
@@ -55,29 +88,21 @@ I am using the following technologies and libraries. Big thanks to their creator
 
 ---
 
-## 🎛 Features
-
-### Hardware
-- **16 Mechanical Switches:** Used for finger drumming and live performance. I chose mechanical key switches (Cherry MX style) for that tactile clicky sensation and durability.
-- **8 Potentiometers:** For real-time control of effects, volume, and parameters.
-- **4 Encoders:** Endless rotary encoders for ADSR control, menu navigation, and fine-tuning values.
-- **3 Joysticks:** Why not make it fun and expressive? Map values to X/Y axes to manipulate effects while playing live.
-- **9 Function Buttons:** System controls including "Save", "Open", "Undo", "Quantize", and Shift shortcuts.
-
-### Software (Planned)
-- **Sample Playback:** Low latency triggering from SD card.
-- **Sequencer:** Step sequencer and live recording.
-- **Effects:** Reverb, Delay, and Bitcrusher implementation.
-
----
-
 ## 🚀 Instructions
 
 ### **Assembly and Wiring**
 > 🚧 **Work in Progress:** Detailed wiring diagrams and assembly guide coming soon. 
 ### You can view the current schematics [HERE](https://i.imgur.com/9fgKyoE.png).
 
-The interactive wiring diagram is hosted on Cirkit Designer. Since GitHub doesn't allow interactive embeds, **click the image below to open the interactive viewer**: <a href="https://app.cirkitdesigner.com/project/12ed71a3-bdbf-4b91-8f72-1112bf8fde8e?view=interactive_preview" target="_blank"> <img src="https://i.imgur.com/9fgKyoE.png" alt="Interactive Wiring Diagram" width="100%"> </a> <p align="center">   <a href="https://app.cirkitdesigner.com/project/12ed71a3-bdbf-4b91-8f72-1112bf8fde8e" target="_blank"></a></p>
+The interactive wiring diagram is hosted on Cirkit Designer. Since GitHub doesn't allow interactive embeds, **click the image below to open the interactive viewer**: 
+
+<a href="https://app.cirkitdesigner.com/project/12ed71a3-bdbf-4b91-8f72-1112bf8fde8e?view=interactive_preview" target="_blank"> 
+  <img src="https://i.imgur.com/9fgKyoE.png" alt="Interactive Wiring Diagram" width="100%"> 
+</a> 
+
+<p align="center">   
+  <a href="https://app.cirkitdesigner.com/project/12ed71a3-bdbf-4b91-8f72-1112bf8fde8e" target="_blank">Edit in Cirkit Designer</a>
+</p>
 
 ### **Flashing the Firmware**
 
