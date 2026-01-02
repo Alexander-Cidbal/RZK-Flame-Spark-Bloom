@@ -1,19 +1,18 @@
 
 <div align="center">
-  <img src="https://i.imgur.com/8T0b9uv.png" alt="Logo" height="200">
-  <img src="https://i.imgur.com/PClQnu1.png" alt="Logo" height="200">
+  <img src="https://i.imgur.com/8T0b9uv.png" alt="Front View" height="200">
+  <img src="https://i.imgur.com/PClQnu1.png" alt="Perspective View" height="200">
   
-Concept images made in Blender
-   
+  <p><em>Concept images rendered in Blender</em></p>
 
   # Teensy_Sampler_4_BEATS
 
-  ![Static Badge](https://img.shields.io/badge/State-Early_Development-%23b1fc03)
-
-  ![Versión](https://img.shields.io/badge/Versión-0.0.0-orange)
+  ![Status](https://img.shields.io/badge/Status-Early_Development-%23b1fc03)
+  ![Version](https://img.shields.io/badge/Version-0.0.0-orange)
+  ![Hardware](https://img.shields.io/badge/Hardware-Teensy_4.1-blue)
 
   <p>
-    A sampler based on Teensy 4.1, focused on beatmaking and music production.
+    A DIY sampler based on the Teensy 4.1 development board, focused on beatmaking, sampling, and live music production.
   </p>
 </div>
 
@@ -21,62 +20,64 @@ Concept images made in Blender
 
 ## 📋 Contents
 
-1. [About](#-About)
-2. [Technologies](#-Technologies)
-3. [Instructions](#-Instructions)
-4. [Roadmap](#-Roadmap)
-5. [Licence](#-licence)
+1. [About](#-about)
+2. [Technologies](#-technologies)
+3. [Features](#-features)
+4. [Instructions](#-instructions)
+5. [Roadmap](#-roadmap)
+6. [License](#-license)
 
 ---
 
 ## 📖 About
 
-This project was born out of three of my great passions: beatmaking, electronics, and design. Currently, there are many hardware alternatives that serve similar purposes, but almost none of them are open source, so this project aims to achieve the following:
+This project was born out of three of my great passions: **beatmaking, electronics, and design**. 
 
-- **Opensource:** CCode and schematics available for anyone to experiment with, modify, and reinvent their own machine.
-- **Budget friendly:** I tried to use components that could be found in any electronics store (except for the Teensy board, which I bought at Sparkfun, although they are also available on Aliexpress for a similar price). The casing can be any plastic container, as long as you know how to cut and make holes.
-- **Expandible:** Any modifications are welcome, and I would appreciate any feedback from the beatmaking, electronics, DIY makers, etc. community. Visit the community section and, coming soon, the Discord server.
+Currently, there are many hardware alternatives that serve similar purposes (like the SP-404 or MPCs), but almost none of them are truly open source. This project aims to bridge that gap with the following philosophy:
 
-![Demo](URL_DE_TU_GIF_O_SCREENSHOT.gif)
+- **Open Source:** Code and schematics are available for anyone to experiment with, modify, and reinvent their own machine.
+- **Budget Friendly:** Designed using components easily found in standard electronics stores (except for the Teensy board, available at Sparkfun or similar distributors).
+- **DIY Enclosure:** The casing is designed to be adaptable. You can use any plastic container or 3D print your own, as long as you have the tools for cutting and drilling.
+- **Expandable:** Modifications are welcome! I highly value feedback from the beatmaking, electronics, and maker communities. 
 
 ---
 
 ## 🛠 Technologies
 
-I am using the following technologies and libraries. I would like to thank their creators and all those who maintain them:
+I am using the following technologies and libraries. Big thanks to their creators and maintainers:
 
-* [Arduino IDE](https://www.arduino.cc/en/software/)
-* [Teensy Audio Library](https://www.pjrc.com/teensy/td_libs_Audio.html)
-* (Añadir más)
+* [Arduino IDE](https://www.arduino.cc/en/software/) - Main development environment.
+* [Teensy Audio Library](https://www.pjrc.com/teensy/td_libs_Audio.html) - The core engine for audio processing.
+* **KiCad** - Used for schematic capture and PCB design.
 
 ---
-## Features
+
+## 🎛 Features
+
 ### Hardware
-- **16 Buttons** for finger drumming and live performance. I used key switches, because I like the clicky sensation they give. 
-- **8 Potentiometers** For controlling effects, volumes, values, etc. 
-- **4 Encoders** For ADSR control, navigation, individual control values, etc
-- **3 Joysticks** Why not make it fun and expressive? You can map values to the X and Y axes of each one. Try manipulating effects while playing live!
-- **9 Control buttons** System control. Actions like "Save", "Open", "Undo", "Quantize", etc. Shortcuts included.
+- **16 Mechanical Switches:** Used for finger drumming and live performance. I chose mechanical key switches (Cherry MX style) for that tactile clicky sensation and durability.
+- **8 Potentiometers:** For real-time control of effects, volume, and parameters.
+- **4 Encoders:** Endless rotary encoders for ADSR control, menu navigation, and fine-tuning values.
+- **3 Joysticks:** Why not make it fun and expressive? Map values to X/Y axes to manipulate effects while playing live.
+- **9 Function Buttons:** System controls including "Save", "Open", "Undo", "Quantize", and Shift shortcuts.
 
-### Software
+### Software (Planned)
+- **Sample Playback:** Low latency triggering from SD card.
+- **Sequencer:** Step sequencer and live recording.
+- **Effects:** Reverb, Delay, and Bitcrusher implementation.
 
 ---
+
 ## 🚀 Instructions
 
-### **Assembly and wiring instructions and recommendations [HERE](https://www.)**
+### **Assembly and Wiring**
+> 🚧 **Work in Progress:** Detailed wiring diagrams and assembly guide coming soon. 
+### You can view the current schematics [HERE](https://i.imgur.com/9fgKyoE.png).
 
-### **Flashing the firmware**
+The interactive wiring diagram is hosted on Cirkit Designer. Since GitHub doesn't allow interactive embeds, **click the image below to open the interactive viewer**: <a href="https://app.cirkitdesigner.com/project/12ed71a3-bdbf-4b91-8f72-1112bf8fde8e?view=interactive_preview" target="_blank"> <img src="https://i.imgur.com/9fgKyoE.png" alt="Interactive Wiring Diagram" width="100%"> </a> <p align="center"> Edit this project interactively in <a href="https://app.cirkitdesigner.com/project/12ed71a3-bdbf-4b91-8f72-1112bf8fde8e" target="_blank">Cirkit Designer</a>. </p>
 
-1. Clone the repository using the clone button or using GIT.:
-   ```bash
-   git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/tu-usuario/tu-proyecto.git)
-   
----
+### **Flashing the Firmware**
 
-
-## 🚀 Roadmap
-
-### **GGG cosas por hacer y progreso**
-
-   
----
+1. Clone the repository:
+```bash 
+git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/tu-usuario/tu-proyecto.git)
