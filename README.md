@@ -31,22 +31,23 @@
 
 ## 📖 About
 
-Aquí explicas más a fondo. ¿Por qué creaste esto? ¿Qué lo hace especial?
+This project was born out of three of my great passions: beatmaking, electronics, and design. Currently, there are many hardware alternatives that serve similar purposes, but almost none of them are open source, so this project aims to achieve the following:
 
-- **Característica 1:** Descripción breve.
-- **Característica 2:** Descripción breve.
-- **Característica 3:** Descripción breve.
+- **Opensource:** CCode and schematics available for anyone to experiment with, modify, and reinvent their own machine.
+- **Budget friendly:** I tried to use components that could be found in any electronics store (except for the Teensy board, which I bought at Sparkfun, although they are also available on Aliexpress for a similar price). The casing can be any plastic container, as long as you know how to cut and make holes.
+- **Expandible:** Any modifications are welcome, and I would appreciate any feedback from the beatmaking, electronics, DIY makers, etc. community. Visit the community section and, coming soon, the Discord server.
 
-![Demo del proyecto](URL_DE_TU_GIF_O_SCREENSHOT.gif)
+![Demo](URL_DE_TU_GIF_O_SCREENSHOT.gif)
 
 ---
 
 ## 🛠 Technologies
 
-Lista las librerías, lenguajes o frameworks principales:
+I am using the following technologies and libraries. I would like to thank their creators and all those who maintain them:
 
-* [Python](https://python.org)
-* [React](https://reactjs.org)
+* [Arduino IDE](https://www.arduino.cc/en/software/)
+* [Teensy Audio Library](https://www.pjrc.com/teensy/td_libs_Audio.html)
+* 
 * **Herramientas:** Docker, AWS, etc.
 
 ---
