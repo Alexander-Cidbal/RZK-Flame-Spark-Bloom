@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://i.imgur.com/8T0b9uv.png" alt="Logo" height="200">
   <img src="https://i.imgur.com/PClQnu1.png" alt="Logo" height="200">
-
+  <div align="center">
+Concept images made in Blender
    
 
   # Teensy_Sampler_4_BEATS
