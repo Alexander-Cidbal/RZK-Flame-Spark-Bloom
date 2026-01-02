@@ -1,23 +1,23 @@
+
 <div align="center">
   <img src="URL_DE_TU_LOGO_O_IMAGEN.png" alt="Logo" width="200">
 
-  # Nombre de Tu Proyecto
+  # Teensy_Sampler_4_BEATS
 
   ![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-green)
-  ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
-  ![Versión](https://img.shields.io/badge/Versión-1.0.0-orange)
+  ![Versión](https://img.shields.io/badge/Versión-0.0.0-orange)
 
   <p>
-    Una frase corta e impactante que describa qué hace tu proyecto y qué problema resuelve.
+    A sampler based on Teensy 4.1, focused on beatmaking and music production.
   </p>
 </div>
 
 ---
 
-## 📋 Tabla de Contenidos
+## 📋 Contents
 
-1. [Sobre el Proyecto](#-sobre-el-proyecto)
-2. [Tecnologías](#-tecnologías)
+1. [About](#-About)
+2. [Technologies](#-Technologies)
 3. [Instalación](#-instalación)
 4. [Uso](#-uso)
 5. [Roadmap](#-roadmap)
@@ -25,7 +25,7 @@
 
 ---
 
-## 📖 Sobre el Proyecto
+## 📖 About
 
 Aquí explicas más a fondo. ¿Por qué creaste esto? ¿Qué lo hace especial?
 
@@ -37,7 +37,7 @@ Aquí explicas más a fondo. ¿Por qué creaste esto? ¿Qué lo hace especial?
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Technologies
 
 Lista las librerías, lenguajes o frameworks principales:
 
