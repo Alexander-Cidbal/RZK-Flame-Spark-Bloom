@@ -7,7 +7,7 @@ Concept images made in Blender
    
 
   # Teensy_Sampler_4_BEATS
-
+<div align="left">
   ![Static Badge](https://img.shields.io/badge/State-Early_Development-%23b1fc03)
 
   ![Versión](https://img.shields.io/badge/Versión-0.0.0-orange)
