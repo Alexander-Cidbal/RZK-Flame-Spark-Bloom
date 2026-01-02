@@ -76,7 +76,7 @@ I am using the following technologies and libraries. I would like to thank their
 
 ## 🚀 Roadmap
 
-### **Assembly and wiring instructions and recommendations [HERE](https://www.)**
+### **GGG cosas por hacer y progreso**
 
    
 ---
