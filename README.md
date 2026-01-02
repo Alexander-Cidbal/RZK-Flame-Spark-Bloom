@@ -82,6 +82,13 @@ The interactive wiring diagram is hosted on Cirkit Designer. Since GitHub doesn'
 ```bash 
 git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/tu-usuario/tu-proyecto.git)
 ```
+2.   Open the `.ino` file in Arduino IDE.
+    
+3.  Select **Teensy 4.1** from the board manager.
+    
+4.   Compile and Upload.
+ 
+ ### Turtorial can be found [HERE](URLexample).
 ---
 
 ## 🛠 Roadmap
