@@ -94,12 +94,12 @@ I am using the following technologies and libraries. Big thanks to their creator
 
 ### **Assembly and Wiring**
 > 🚧 **Work in Progress:** Detailed wiring diagrams and assembly guide coming soon. 
-### You can view the current schematics [HERE](https://i.imgur.com/9fgKyoE.png).
+### You can view the current schematics [HERE](https://i.imgur.com/oImRSiw.png).
 
 The interactive wiring diagram is hosted on Cirkit Designer. Since GitHub doesn't allow interactive embeds, **click the image below to open the interactive viewer**: 
 
 <a href="https://app.cirkitdesigner.com/project/12ed71a3-bdbf-4b91-8f72-1112bf8fde8e?view=interactive_preview" target="_blank"> 
-  <img src="https://i.imgur.com/9fgKyoE.png" alt="Interactive Wiring Diagram" width="100%"> 
+  <img src="https://i.imgur.com/oImRSiw.png" alt="Interactive Wiring Diagram" width="100%"> 
 </a> 
 
 <p align="center">   
