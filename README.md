@@ -5,7 +5,7 @@
   
   <p><em>Concept images rendered in Blender</em></p>
 
-  # Teensy_Sampler_4_BEATS
+  # RZK Flame Spark Bloom (FS-B1)
 
   ![Status](https://img.shields.io/badge/Status-Early_Development-%23b1fc03)
   ![Version](https://img.shields.io/badge/Version-0.0.0-orange)
