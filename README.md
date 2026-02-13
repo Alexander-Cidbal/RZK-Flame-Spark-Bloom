@@ -10,6 +10,10 @@
   ![Status](https://img.shields.io/badge/Status-Early_Development-%23b1fc03)
   ![Version](https://img.shields.io/badge/Version-0.0.0-orange)
   ![Hardware](https://img.shields.io/badge/Hardware-Teensy_4.1-blue)
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
   ---
 
 ## ⚠️❗Attention! This project is in early development. Many things are still being planned and may (And will) change without notice.
