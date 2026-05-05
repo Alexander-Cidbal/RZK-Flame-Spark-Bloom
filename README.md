@@ -1,4 +1,5 @@
 
+
 <div align="center">
   <img src="https://i.imgur.com/8T0b9uv.png" alt="Front View" height="300">
   <img src="https://i.imgur.com/PClQnu1.png" alt="Perspective View" height="300">
@@ -91,7 +92,9 @@ I am using the following technologies and libraries. Big thanks to their creator
 
 * [Arduino IDE](https://www.arduino.cc/en/software/) - Main development environment.
 * [Teensy Audio Library](https://www.pjrc.com/teensy/td_libs_Audio.html) - The core engine for audio processing.
-* **KiCad** - Used for schematic capture and PCB design.
+* [Control Surface](https://github.com/tttapa/Control-Surface) - Amazing library for MIDI .
+* [Cirkit](https://app.cirkitdesigner.com/) Used for schematic capture and circuit design.
+
 
 ---
 
