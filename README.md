@@ -55,12 +55,13 @@ Currently, there are many hardware alternatives that serve similar purposes (lik
 ### Hardware
 - **16 Mechanical Switches:** Used for finger drumming and live performance. I chose mechanical key switches (Cherry MX style) for that tactile clicky sensation and durability.
 - **8 Potentiometers:** For real-time control of effects, volume, and parameters.
-- **4 Encoders:** Endless rotary encoders for ADSR control, menu navigation, and fine-tuning values.
-- **3 Joysticks:** Why not make it fun and expressive? Map values to X and Y axes to manipulate effects while playing live.
-- **9 Function Buttons:** System controls including "Save", "Open", "Undo", "Quantize", and Shift shortcuts.
+- **4 Encoders:** Endless rotary encoders with switch for ADSR control, menu navigation, and fine-tuning values.
+- **4 Joysticks:** Why not make it fun and expressive? Map values to X and Y axes to manipulate effects while playing live, plus one swith per each.
+- **8 Function Buttons:** System controls including "Spark", "Shift", and shortcuts.
 
 ### Software (Planned)
-- **Sample Playback:** Low latency triggering from SD card.
+- **USB-MIDI output** Use it as a powerful and expressive MIDI controller for live performance or studio sessions.
+- **Sample Playback:** Low latency triggering from SD card and RAM.
 - **Sequencer:** Step sequencer and live recording.
 - **Effects:** Reverb, Delay, and Bitcrusher implementation.
 
@@ -74,11 +75,11 @@ List of main components used in this build:
 * **1x**- Teensy Audio Shield
 * **1x**- 2.0 inch TFT Display OLED LCD 
 * **16x**- Cherry MX Mechanical Switches
-* **16x**- Key caps
+* **24x**- Key caps
 * **8x**- B10k potentiometers
 * **4x**- Rotary encoders with switch
-* **3x**- Joystick module
-* **9x**- Push Button (Or more mechanical switches)
+* **4x**- Joystick module
+* **8x**- Push Button (Or more mechanical switches)
 * **3x**- CD74HC4067 16-Channel Digital Multiplexer Breakout Board Module
 * **1x**- Enclosure. You can use plastic containers, metal containers, recycled boxes, 3D printed case, or even make your own cardboard box using the template in this repository. Get creative and make something amazing and original!
 
@@ -103,7 +104,7 @@ I am using the following technologies and libraries. Big thanks to their creator
 The interactive wiring diagram is hosted on Cirkit Designer. Since GitHub doesn't allow interactive embeds, **click the image below to open the interactive viewer**: 
 
 <a href="https://app.cirkitdesigner.com/project/12ed71a3-bdbf-4b91-8f72-1112bf8fde8e?view=interactive_preview" target="_blank"> 
-  <img src="https://i.imgur.com/oImRSiw.png" alt="Interactive Wiring Diagram" width="100%"> 
+  <img src="https://i.imgur.com/5Yv8cYv.png" alt="Interactive Wiring Diagram" width="100%"> 
 </a> 
 
 <p align="center">   
@@ -127,11 +128,16 @@ git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/tu-
 
 ## 🗺 Roadmap
 
-Cosas por hacer XD
-
+ - [x] **USB-MIDI support**
+ - [x] **Physical wiring prototype**
+ - [x] **Power path design (Battery support)**
+ - [ ] TFT display tests for debugging controls
+ - [ ] Standalone Audio System
+ - [ ] Sampling System
+ - [ ] ...more to define...
 ---
 ## 📄 License
-
-Aún por definir, debo investigar XDe
+![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)
+CC BY-NC-SA 4.0
 
 ---
