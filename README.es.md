@@ -1,3 +1,4 @@
+Traducción: [English](README.md)
 <div align="center">
   <img src="https://i.imgur.com/8T0b9uv.png" alt="Vista Frontal" height="300">
   <img src="https://i.imgur.com/PClQnu1.png" alt="Vista en Perspectiva" height="300">
