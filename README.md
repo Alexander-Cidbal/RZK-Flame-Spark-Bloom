@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/8T0b9uv.png" alt="Front View" height="300">
   <img src="https://i.imgur.com/PClQnu1.png" alt="Perspective View" height="300">
   
-  <p><em>Concept images rendered in Blender</em></p>
+  <p><em>Concept images rendered in Blender (Real instrument photos SOON) </em></p>
 
   # RZK Flame Spark Bloom (FS-B1)
 
