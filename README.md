@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/8T0b9uv.png" alt="Front View" height="300">
   <img src="https://i.imgur.com/PClQnu1.png" alt="Perspective View" height="300">
   
-  <p><em>Concept images rendered in Blender (Real instrument photos SOON) </em></p>
+  <p><em>Concept images rendered in Blender (Real instrument photos SOON!!!) </em></p>
 
   # RZK Flame Spark Bloom (FS-B1)
 
@@ -16,7 +16,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
   ---
 
-## ⚠️❗Attention! This project is in early development. Many things are still being planned and may (And will) change without notice.
+## ⚠️❗Attention! This project is in early development. Many things are still being planned and may (And will) change without notice. Source code is being developed and will be uploaded SOON.
 
   <p>
     A DIY sampler based on the Teensy 4.1 development board, focused on beatmaking, sampling, and live music production.
