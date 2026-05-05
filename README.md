@@ -103,7 +103,7 @@ I am using the following technologies and libraries. Big thanks to their creator
 
 ### **Assembly and Wiring**
 > 🚧 **Work in Progress:** Detailed wiring diagrams and assembly guide coming soon. 
-### You can view the current schematics [HERE](https://i.imgur.com/oImRSiw.png).
+### You can view the current schematics [HERE](https://i.imgur.com/5Yv8cYv.png).
 
 The interactive wiring diagram is hosted on Cirkit Designer. Since GitHub doesn't allow interactive embeds, **click the image below to open the interactive viewer**: 
 
