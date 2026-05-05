@@ -1,5 +1,5 @@
 
-
+Translations: [Español](README.es.md)
 <div align="center">
   <img src="https://i.imgur.com/8T0b9uv.png" alt="Front View" height="300">
   <img src="https://i.imgur.com/PClQnu1.png" alt="Perspective View" height="300">
