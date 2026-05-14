@@ -8,7 +8,7 @@ Translations: [Español](README.es.md)
   
   <p><em>Concept images rendered in Blender (Real instrument photos SOON!!!) </em></p>
 
-  # RZK Flame Spark Bloom (FS-B1)
+  # XOTLA (XTL-01)
 
   ![Status](https://img.shields.io/badge/Status-Early_Development-%23b1fc03)
   ![Version](https://img.shields.io/badge/Version-0.0.0-orange)
