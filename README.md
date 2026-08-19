@@ -18,7 +18,7 @@ Translations: [Español](README.es.md)
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
   ---
-
+## ⚠️❗Project paused! Temporal hiatus, I`ll be back in a month or two.
 ## ⚠️❗Attention! This project is in early development. Many things are still being planned and may (And will) change without notice. Source code is being developed and will be uploaded SOON.
 
   <p>
